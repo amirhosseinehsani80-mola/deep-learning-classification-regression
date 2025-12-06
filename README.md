@@ -19,6 +19,7 @@ Training performance is compared using Adam, Nadam, and RMSprop optimizers. Baye
 A large number of architectures are tested, including variations in depth, number of units, learning rate, and early stopping. The results show how different configurations influence accuracy and loss, and how model capacity interacts with optimization settings.
 
 ## House Price Regression
+<img width="1206" height="1001" alt="image" src="https://github.com/user-attachments/assets/c5bb73aa-57f2-4def-9750-b9eacdf4cff3" />
 
 The regression folder includes a neural network model trained to predict house prices. The dataset is preprocessed through scaling, one-hot encoding, and a logarithmic transform of the target variable. Two models with different depths are trained and compared based on mean squared error and mean absolute error. The project demonstrates how neural networks can be applied to tabular regression tasks and how preprocessing affects performance.
 
